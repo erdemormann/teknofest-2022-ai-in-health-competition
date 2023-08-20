@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.teknofest.org/en/competitions/competition/34">
+    <img src="https://cdn.teknofest.org/media/uploads/2023/02/22/saglkta-yz.png" alt="Teknofest" width="270">
+  </a>
+</p>
+
 # Teknofest 2022 Sağlıkta Yapay Zeka Yarışması
 
 ## Teknofest 2022 - Veri Ön İşleme Projesi
@@ -10,3 +16,15 @@ Geçtiğimiz Teknofest etkinliğinde Sağlıkta Yapay Zeka Yarışması kapsamı
 
 Projemde, sağlık verilerini daha iyi işlemek ve analiz etmek amacıyla görüntü önişleme adımlarını içeren kodlar geliştirdim. 
 Bu kodlar sayesinde, .dcm uzantılı dosyaları .png formatına çevirmek, görüntüleri ResNet algoritması için yeniden boyutlandırmak ve renk kanalları arasındaki farklar azaltıldı. Ayrıca, veri bütünlüğünü korumak adına görüntülerin isimlendirme işlemleri ve dosya düzenlemeleri gerçekleştirildi.
+
+**Öne Çıkan Özellikler:**
+
++ .dcm uzantılı dosyalar .png formatına çevrildi
++ Görüntülerin boyutları normalize edilerek, veri bütünlüğü sağlandı.
++ Farklı renk kanallarının birbirine eşitlenmesi ve görüntü kalitesinin iyileştirilmesi amaçlandı.
++ Özelleştirilmiş isimlendirme ve dosya düzenlemeleri ile veri yönetimi kolaylaştırıldı.
++ Geliştirilen kodlar, veri ön işleme adımlarını otomatikleştirdi ve analiz için daha uygun hale getirdi.
+
+**Bu proje sayesinde, sağlık verilerinin daha iyi yönetilmesi ve işlenmesi hedefine adım attık.** 
+
+Kodlarımı GitHub üzerinde paylaştım, böylece bu alanda çalışan diğer arkadaşlarımızın da faydalanabileceği bir kaynak oluşturmayı amaçladım. Umarım benzer çalışma gerçekleştirenler için faydalı olur.
