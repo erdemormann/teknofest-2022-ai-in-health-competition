@@ -4,6 +4,8 @@
 
 **Teknofest 2022 Sağlıkta Yapay Zeka Yarışması için mamografi görüntülerinin ResNet algoritması için uygun formata getirilmesi ve mamografi görüntülerinin ön işlemesinin yapılması.**
 
+Read this in other languages: [English](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/main/README.md)
+
 Geçtiğimiz Teknofest etkinliğinde Sağlıkta Yapay Zeka Yarışması kapsamında geliştirdiğim veri ön işleme projesini sizinle paylaşmak istiyorum. Proje kapsamında .dcm uzantılı medikal görüntü verilerinin işlenmesi ve analizi için geliştirdiğim özel önişleme kodlarını sizlerle paylaşmak istiyorum.
 
 Projemde, sağlık verilerini daha iyi işlemek ve analiz etmek amacıyla görüntü önişleme adımlarını içeren kodlar geliştirdim. 
