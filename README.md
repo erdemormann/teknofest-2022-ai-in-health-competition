@@ -6,7 +6,7 @@
 
 # Teknofest 2022 Ai in Health Competition
 
-## Teknofest 2022 - Data Preprocessing Project (Teknofest 2022 - Veri Ön İşleme Projesi)
+## Teknofest 2022 - Data Preprocessing Project 
 
 **Preparing Mammography Images for the ResNet Algorithm and Performing Preprocessing of Mammography Images for the Teknofest 2022 Health Artificial Intelligence Competition.**
 
