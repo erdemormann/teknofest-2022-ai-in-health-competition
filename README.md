@@ -1,5 +1,6 @@
-[![Teknofest](https://cdn.teknofest.org/media/uploads/2023/02/22/saglkta-yz.png)](https://www.teknofest.org/en/competitions/competition/34)
-
+<a href="https://www.teknofest.org/en/competitions/competition/34">
+  <img src="https://cdn.teknofest.org/media/uploads/2023/02/22/saglkta-yz.png" alt="Teknofest" width="200">
+</a>
 
 # Teknofest 2022 Ai in Health Competition
 
