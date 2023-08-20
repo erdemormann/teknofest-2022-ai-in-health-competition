@@ -1,3 +1,6 @@
+[![Teknofest](https://cdn.teknofest.org/media/uploads/2023/02/22/saglkta-yz.png)](https://www.teknofest.org/en/competitions/competition/34)
+
+
 # Teknofest 2022 Ai in Health Competition
 
 ## Teknofest 2022 - Data Preprocessing Project (Teknofest 2022 - Veri Ön İşleme Projesi)
