@@ -30,6 +30,13 @@ Tüm veri seti 16000 .dcm dosyasından oluşmaktadır.
 + Özelleştirilmiş isimlendirme ve dosya düzenlemeleri ile veri yönetimi kolaylaştırıldı.
 + Geliştirilen kodlar, veri ön işleme adımlarını otomatikleştirdi ve analiz için daha uygun hale getirdi.
 
+
+- 📁 **teknofest_data_preprocessing**
+  - 📁 **test** ➜ Raw data folder
+  - 📁 **Data** ➜ Target folder for classified data
+  - 📄 **siralama.xlsx** ➜ Excel table information
+
+
 **Bu proje sayesinde, sağlık verilerinin daha iyi yönetilmesi ve işlenmesi hedefine adım attık.** 
 
 Kodlarımı GitHub üzerinde paylaştım, böylece bu alanda çalışan diğer arkadaşlarımızın da faydalanabileceği bir kaynak oluşturmayı amaçladım. Umarım benzer çalışma gerçekleştirenler için faydalı olur.
