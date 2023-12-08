@@ -32,9 +32,9 @@ Tüm veri seti 16000 .dcm dosyasından oluşmaktadır.
 
 
 - 📁 **teknofest_data_preprocessing**
-  - 📁 **test** ➜ Raw data folder
-  - 📁 **Data** ➜ Target folder for classified data
-  - 📄 **siralama.xlsx** ➜ Excel table information
+  - 📁 **test** ➜ Ham veri klasörü
+  - 📁 **Data** ➜ Sınıflandırılmış verilerin Hedef klasörü
+  - 📄 **siralama.xlsx** ➜ Excel tablo bilgisi
 
 
 **Bu proje sayesinde, sağlık verilerinin daha iyi yönetilmesi ve işlenmesi hedefine adım attık.** 
