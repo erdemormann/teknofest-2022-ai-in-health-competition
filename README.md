@@ -16,6 +16,10 @@ I would like to share with you the data preprocessing project I developed as par
 
 In my project, I developed image preprocessing steps to better process and analyze healthcare data. With these codes, I converted .dcm extension files to .png format, cropped out unwanted text details such as undesirable annotations on the image for deep learning algorithms, resized the images for the ResNet algorithm, and reduced differences between color channels. Additionally, to maintain data integrity, I conducted image naming processes and file arrangements.
 
+During the algorithm development phase, I worked with a smaller dataset, and subsequently, the algorithm was applied to the entire dataset. The complete dataset consists of 16,000 .dcm files.
+
+**Key Features:**
+
 + .dcm files were converted to .png format.
 + The angle information of the written photograph on the images was cropped from the image
 + Outlier images were removed to enhance the algorithm's training and learning processes.
