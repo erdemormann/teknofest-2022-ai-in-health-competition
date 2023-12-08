@@ -30,7 +30,7 @@ During the algorithm development phase, I worked with a smaller dataset, and sub
 
 
 📁 teknofest_data_preprocessing
-├── 📁 test ➜ Raw data folder
+|__ 📁 test ➜ Raw data folder
 ├── 📁 Data ➜ Target folder for classified data
 └── 📄 siralama.xlsx ➜ Excel table information
 
