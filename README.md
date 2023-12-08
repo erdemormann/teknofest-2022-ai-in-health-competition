@@ -28,12 +28,11 @@ During the algorithm development phase, I worked with a smaller dataset, and sub
 + Data management was facilitated through customized naming and file organization.
 + The developed codes automated the data preprocessing steps and made them more suitable for analysis.
 
-📁 teknofest_data_preprocessing
-  ├── 📁 test ➜ Raw data folder
-  ├── 📁 Data ➜ Target folder for classified data
-  └── 📄 siralama.xlsx ➜ Excel table information
 
-
+- 📁 **teknofest_data_preprocessing**
+  - 📁 **test** ➜ Raw data folder
+  - 📁 **Data** ➜ Target folder for classified data
+  - 📄 **siralama.xlsx** ➜ Excel table information
   
 
 **Through this project, we have taken a step towards better management and processing of healthcare data.**
