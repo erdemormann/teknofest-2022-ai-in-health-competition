@@ -15,7 +15,7 @@ Read this in other languages: [English](https://github.com/erdemormann/teknofest
 Geçtiğimiz Teknofest etkinliğinde Sağlıkta Yapay Zeka Yarışması kapsamında geliştirdiğim veri ön işleme projesini sizinle paylaşmak istiyorum. Proje kapsamında .dcm uzantılı medikal görüntü verilerinin işlenmesi ve analizi için geliştirdiğim özel önişleme kodlarını sizlerle paylaşmak istiyorum.
 
 Projemde, sağlık verilerini daha iyi işlemek ve analiz etmek amacıyla görüntü önişleme adımlarını içeren kodlar geliştirdim. 
-Bu kodlar sayesinde, .dcm uzantılı dosyaları .png formatına çevirmek, görüntü üzerinde bulunan fotoğraf açı detayları gibi istenmeyen istenmeyen yazıların derin öğrenme algoritmaları için görüntü üzerinden kesildi, görüntüleri ResNet algoritması için yeniden boyutlandırmak ve renk kanalları arasındaki farklar azaltıldı. Ayrıca, veri bütünlüğünü korumak adına görüntülerin isimlendirme işlemleri ve dosya düzenlemeleri gerçekleştirildi.
+Bu kodlar sayesinde, .dcm uzantılı dosyaları .png formatına çevirmek, görüntü üzerinde bulunan fotoğraf açı detayları gibi istenmeyen yazıların derin öğrenme algoritmaları için görüntü üzerinden kesildi, görüntüleri ResNet algoritması için yeniden boyutlandırmak ve renk kanalları arasındaki farklar azaltıldı. Ayrıca, veri bütünlüğünü korumak adına görüntülerin isimlendirme işlemleri ve dosya düzenlemeleri gerçekleştirildi.
 
 **Öne Çıkan Özellikler:**
 
