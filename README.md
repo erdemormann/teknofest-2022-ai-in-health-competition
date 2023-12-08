@@ -34,6 +34,11 @@ During the algorithm development phase, I worked with a smaller dataset, and sub
 ├── 📁 Data ➜ Target folder for classified data
 └── 📄 siralama.xlsx ➜ Excel table information
 
+teknofest_data_preprocessing
+|__ test (Raw data folder)
+|__ Data (Target folder for classified data)
+|__ siralama.xlsx (Excel table information)
+
   
 
 **Through this project, we have taken a step towards better management and processing of healthcare data.**
