@@ -17,6 +17,9 @@ Geçtiğimiz Teknofest etkinliğinde Sağlıkta Yapay Zeka Yarışması kapsamı
 Projemde, sağlık verilerini daha iyi işlemek ve analiz etmek amacıyla görüntü önişleme adımlarını içeren kodlar geliştirdim. 
 Bu kodlar sayesinde, .dcm uzantılı dosyaları .png formatına çevirmek, görüntü üzerinde bulunan fotoğraf açı detayları gibi istenmeyen yazıların derin öğrenme algoritmaları için görüntü üzerinden kesildi, görüntüleri ResNet algoritması için yeniden boyutlandırmak ve renk kanalları arasındaki farklar azaltıldı. Ayrıca, veri bütünlüğünü korumak adına görüntülerin isimlendirme işlemleri ve dosya düzenlemeleri gerçekleştirildi.
 
+Algoritmayı geliştirirken daha küçük bir veri seti ile çalıştım sonrasında algoritma tüm veri seti üzerinde uygulanmıştır. 
+Tüm veri seti 16000 .dcm dosyasından oluşmaktadır.
+
 **Öne Çıkan Özellikler:**
 
 + .dcm uzantılı dosyalar .png formatına çevrildi
