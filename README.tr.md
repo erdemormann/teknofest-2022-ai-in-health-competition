@@ -43,13 +43,13 @@ Oluşturulduktan sonra ön işleme algoritması çalıştırılmalıdır.
 
 *işlenmemiş verinin excel tablosu*
 
----
+
 
 ![işlenmemiş veriler](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
 
 *işlenmemiş veriler*
 
----
+
 
 ![işlenmemiş verilerin (.dcm dosyaları) klasör içeriği](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
 
@@ -59,29 +59,31 @@ Oluşturulduktan sonra ön işleme algoritması çalıştırılmalıdır.
 
 **Veri ön işleme algoritmasından sonra veriler**
 
+---
+
 ![işlenmiş verinin sınıflandırılması](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
 
 *işlenmiş verinin sınıflandırılması*
 
----
+
 
 ![sınıflandırılmış ve işlenmiş veriler](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
 
 *sınıflandırılmış ve işlenmiş veriler*
 
----
+
 
 ![işlenmiş bir veri ve etiketlerinin gösterimi](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
 
 *işlenmiş bir veri ve etiketlerinin gösterimi*
 
----
+
 
 ![verinin detaylı bir gösterimi](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
 
 *verinin detaylı bir gösterimi*
 
----
+
 
 ![ön işleme algoritmasından sonra veri bilgileri](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
 
