@@ -39,16 +39,21 @@ Tüm veri seti 16000 .dcm dosyasından oluşmaktadır.
 Not: A, B, C ve D sınıflarına ayrılacak olan verilerin önceden data klasöründe oluşturulmalıdır.
 Oluşturulduktan sonra ön işleme algoritması çalıştırılmalıdır.
 
-
-<p align="center">
+<div>
+  <p align="center">
     <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img1.png" alt="Teknofest"   width="250" height=200>
 </p>
 <p align="center>işlenmemiş verinin excel tablosu</p>
+</div>
 
-<p align="center">
+
+<div>
+  <p align="center">
     <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="250" height=200>
 </p>
-<p align="center>işlenmemiş veriler</p>
+<p>işlenmemiş veriler</p>
+</div>
+
 
 
 **Bu proje sayesinde, sağlık verilerinin daha iyi yönetilmesi ve işlenmesi hedefine adım attık.** 
