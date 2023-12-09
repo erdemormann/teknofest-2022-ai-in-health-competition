@@ -39,50 +39,54 @@ Tüm veri seti 16000 .dcm dosyasından oluşmaktadır.
 Not: A, B, C ve D sınıflarına ayrılacak olan verilerin önceden data klasöründe oluşturulmalıdır.
 Oluşturulduktan sonra ön işleme algoritması çalıştırılmalıdır.
 
-<div>
-  <div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img1.png" alt="Teknofest"   width="950" height=400>
-<p>işlenmemiş verinin excel tablosu</p>
-</div>
+![işlenmemiş verinin excel tablosu](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img1.png)
 
-<div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
-<p>işlenmemiş veriler</p>
-</div>
+*işlenmemiş verinin excel tablosu*
 
-<div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
-<p>işlenmemiş verilerin (.dcm dosyaları) klasör içeriği</p>
-</div>
+---
+
+![işlenmemiş veriler](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
+
+*işlenmemiş veriler*
+
+---
+
+![işlenmemiş verilerin (.dcm dosyaları) klasör içeriği](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
+
+*işlenmemiş verilerin (.dcm dosyaları) klasör içeriği*
+
+---
 
 **Veri ön işleme algoritmasından sonra veriler**
 
-<div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
-<p>işlenmiş verinin sınıflandırılması</p>
-</div>
+![işlenmiş verinin sınıflandırılması](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
 
-<div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
-<p>sınıflandırılmış ve işlenmiş veriler</p>
-</div>
+*işlenmiş verinin sınıflandırılması*
 
-<div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
-<p>işlenmiş bir veri ve etiketlerinin gösterimi</p>
-</div>
+---
 
-<div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
-<p>verinin detaylı bir gösterimi</p>
-</div>
+![sınıflandırılmış ve işlenmiş veriler](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
 
-<div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
-<p>ön işleme algoritmasından sonra veri bilgileri</p>
-</div>
+*sınıflandırılmış ve işlenmiş veriler*
 
-</div>
+---
+
+![işlenmiş bir veri ve etiketlerinin gösterimi](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
+
+*işlenmiş bir veri ve etiketlerinin gösterimi*
+
+---
+
+![verinin detaylı bir gösterimi](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
+
+*verinin detaylı bir gösterimi*
+
+---
+
+![ön işleme algoritmasından sonra veri bilgileri](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
+
+*ön işleme algoritmasından sonra veri bilgileri*
+
 
 
 **Bu proje sayesinde, sağlık verilerinin daha iyi yönetilmesi ve işlenmesi hedefine adım attık.** 
