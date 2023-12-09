@@ -36,6 +36,9 @@ Tüm veri seti 16000 .dcm dosyasından oluşmaktadır.
   - 📁 **Data** ➜ Sınıflandırılmış verilerin Hedef klasörü
   - 📄 **siralama.xlsx** ➜ Excel tablo bilgisi
 
+Not: A, B, C ve D sınıflarına ayrılacak olan verilerin önceden data klasöründe oluşturulmalıdır.
+Oluşturulduktan sonra ön işleme algoritması çalıştırılmalıdır.
+
 
 **Bu proje sayesinde, sağlık verilerinin daha iyi yönetilmesi ve işlenmesi hedefine adım attık.** 
 
