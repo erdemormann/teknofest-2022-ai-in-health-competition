@@ -55,10 +55,7 @@ Oluşturulduktan sonra ön işleme algoritması çalıştırılmalıdır.
 <p>işlenmemiş verilerin (.dcm dosyaları) klasör içeriği</p>
 </div>
 
-
-<br>
-**veri ön işleme algoritmasından sonra veriler**
-<br>
+**Veri ön işleme algoritmasından sonra veriler**
 
 <div>
   <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
