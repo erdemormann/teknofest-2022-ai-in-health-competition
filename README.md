@@ -37,6 +37,58 @@ During the algorithm development phase, I worked with a smaller dataset, and sub
 Note: The data to be categorized into classes A, B, C, and D must be previously created in the data folder.
 After creation, the preprocessing algorithm should be executed.
 
+
+![Excel table of raw data](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img1.png)
+
+*Excel table of raw data*
+
+
+
+![Raw data](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png)
+
+*Raw data*
+
+
+
+![Contents of raw data (.dcm files) folder](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img3.png)
+
+*Contents of raw data (.dcm files) folder*
+
+---
+
+**Data after the data preprocessing algorithm**
+
+
+
+![Classification of processed data](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img4.png)
+
+*Classification of processed data*
+
+
+
+![Classified and processed data](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img5.png)
+
+*Classified and processed data*
+
+
+
+![Representation of processed data and labels](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img6.png)
+
+*Representation of processed data and labels*
+
+
+
+![Detailed representation of data](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img7.png)
+
+*Detailed representation of data*
+
+
+
+![Information of data after preprocessing algorithm](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img8.png)
+
+*Information of data after preprocessing algorithm*
+
+
 **Through this project, we have taken a step towards better management and processing of healthcare data.**
 
 I have shared my code on GitHub, aiming to create a resource that other colleagues working in this field can benefit from. I hope it will be useful for those who are undertaking similar work.
