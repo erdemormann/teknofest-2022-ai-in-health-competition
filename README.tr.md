@@ -41,46 +41,47 @@ Oluşturulduktan sonra ön işleme algoritması çalıştırılmalıdır.
 
 <div>
   <div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img1.png" alt="Teknofest"   width="750" height=400>
+  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img1.png" alt="Teknofest"   width="950" height=400>
 <p>işlenmemiş verinin excel tablosu</p>
 </div>
 
 <div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="750" height=400>
+  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
 <p>işlenmemiş veriler</p>
 </div>
 
 <div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="750" height=400>
+  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
 <p>işlenmemiş verilerin (.dcm dosyaları) klasör içeriği</p>
 </div>
 
-<p>
-  veri ön işleme algoritmasından sonra veriler
-</p>
+
+<br>
+**veri ön işleme algoritmasından sonra veriler**
+<br>
 
 <div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="750" height=400>
+  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
 <p>işlenmiş verinin sınıflandırılması</p>
 </div>
 
 <div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="750" height=400>
+  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
 <p>sınıflandırılmış ve işlenmiş veriler</p>
 </div>
 
 <div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="750" height=400>
+  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
 <p>işlenmiş bir veri ve etiketlerinin gösterimi</p>
 </div>
 
 <div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="750" height=400>
+  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
 <p>verinin detaylı bir gösterimi</p>
 </div>
 
 <div>
-  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="750" height=400>
+  <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="950" height=400>
 <p>ön işleme algoritmasından sonra veri bilgileri</p>
 </div>
 
