@@ -34,8 +34,8 @@ During the algorithm development phase, I worked with a smaller dataset, and sub
   - 📁 **Data** ➜ Target folder for classified data
   - 📄 **siralama.xlsx** ➜ Excel table information
 
-
-
+Note: The data to be categorized into classes A, B, C, and D must be previously created in the data folder.
+After creation, the preprocessing algorithm should be executed.
 
 **Through this project, we have taken a step towards better management and processing of healthcare data.**
 
