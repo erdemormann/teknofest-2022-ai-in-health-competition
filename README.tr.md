@@ -41,11 +41,14 @@ Oluşturulduktan sonra ön işleme algoritması çalıştırılmalıdır.
 
 
 <p align="center">
-  <a href="[https://www.teknofest.org/en/competitions/competition/34](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img1.png)">
-    <img src="https://cdn.teknofest.org/media/uploads/2023/02/22/saglkta-yz.png" alt="Teknofest" width="200">
-  </a>
+    <img src="[https://cdn.teknofest.org/media/uploads/2023/02/22/saglkta-yz.png](https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img1.png)" alt="Teknofest"   width="200">
 </p>
 <p>işlenmemiş verinin excel tablosu</p>
+
+<p align="center">
+    <img src="https://github.com/erdemormann/teknofest-2022-ai-in-health-competition/blob/master/teknofest_data_preprocessing/images/img2.png" alt="Teknofest"   width="200">
+</p>
+<p>işlenmemiş veriler</p>
 
 
 **Bu proje sayesinde, sağlık verilerinin daha iyi yönetilmesi ve işlenmesi hedefine adım attık.** 
